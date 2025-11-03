@@ -2,6 +2,9 @@
 
 C++ DSP core with Python ML stubs and a pybind11 bridge. Target platform: Linux (works on Windows for development via CMake).
 
+**This repository was re-created after being mistakenly pushed to the wrong GitHub account.  
+As a result, the full commit history from the original repository is not reflected here.**
+
 ## Build
 
 - Windows PowerShell:
